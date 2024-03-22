@@ -1,0 +1,11 @@
+.pa{
+    border: 2px solid salmon ;
+    padding: 4px;
+    margin-left: 100px;
+    width: 200px;
+}
+.child{
+    border: 2px solid royalblue ;
+    padding: 4px;
+   
+}
